@@ -1,0 +1,3 @@
+﻿  SeqList.c
+D:\code\sqlList\SeqList.c(73): warning C4716: “SeqListFind”: 必须返回一个值
+  sqlList.vcxproj -> D:\code\sqlList\x64\Debug\sqlList.exe
